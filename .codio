@@ -1,0 +1,17 @@
+{
+    "commands": {
+        "Run Sublime": "subl",
+        "Node version": "node --version",
+        "Start Rails Server": "/demo/bin/rails server -b 0.0.0.0 -p 3333"
+    },
+    "preview": {
+        "Virtual Desktop": "https://{{domain3000}}/",
+        "Run Sublime": "subl",
+        "Project Index (static)": "https://{{domain}}/{{index}}",
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL": "http://{{domain3000}}/",
+        "Box URL SSL": "https://{{domain3000}}/",
+        "Viewer": "https://{{domain3000}}/",
+        "Ruby on Rails": "http://{{domain3333}}/"
+    }
+}
